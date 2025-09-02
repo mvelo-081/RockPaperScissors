@@ -4,4 +4,4 @@
 
 
 # live at
-- [View 🔥](https://github.io/mvelo-081/RockPaperScissors/)
+- [View 🔥](https://mvelo-081.github.io/RockPaperScissors/)
